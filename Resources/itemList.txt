@@ -1,0 +1,4 @@
+1;Welding Kit;5;Shelf A
+2;Sensor Pack;10;Shelf B
+3;Motor Set;3;Shelf C
+4;Controller Board;7;Shelf A

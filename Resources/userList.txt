@@ -1,0 +1,6 @@
+1,admin1,adminpass1,1
+2,user1,userpass1,0
+3,user2,userpass2,0
+1, admin1, adminpass1, 1
+2, user1, userpass1, 0
+3, user2, userpass2, 0
